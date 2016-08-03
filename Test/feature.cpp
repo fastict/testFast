@@ -5,5 +5,5 @@
 int feature()
 {
     printf("feature()");
-    return 25;
+    return 50;
 }
