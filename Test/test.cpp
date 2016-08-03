@@ -2,9 +2,11 @@
 #include <stdio.h>
 
 
+int newTest();
+
 
 int main()
 {
     printf("Hello world");
-    return 0;
+    return newTest();
 }
